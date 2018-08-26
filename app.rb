@@ -7,12 +7,12 @@ class App < Sinatra::Base
   end
 
   get '/' do
-    
+
   end
 
   post '/checkout' do
-    
+
   end
-   
+
 
 end
